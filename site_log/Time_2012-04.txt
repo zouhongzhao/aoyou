@@ -1,0 +1,24 @@
+AUTO SetIntval Time [2012-04-06 05:04:58]:
+		D:/xampp/htdocs/ci/aa/_SITE_LOG/_DTM_2012-04/_DTD_06/04.txt 文件没有数据内容!
+AUTO SetIntval Time [2012-04-06 05:04:24]:
+		完成了机器台数的小时处理;
+	成功导入到[tong_hour]表!
+	Automatic registered users: to complete list!
+	To automatically register to user_auto_reg table completed
+	04时的数据处理完成,时间2012-04-06 05:41:24时!
+AUTO SetIntval Time [2012-04-06 05:04:23]:
+		完成了机器台数的小时处理;
+	成功导入到[tong_hour]表!
+	Automatic registered users: to complete list!
+	To automatically register to user_auto_reg table completed
+	04时的数据处理完成,时间2012-04-06 05:47:23时!
+2012-04-06 05:49:34mac mac_number update success!
+2012-04-06 07:04:11mac mac_number update success!
+AUTO SetIntval Time [2012-04-06 08:04:39]:
+		D:/xampp/htdocs/ci/aa/_SITE_LOG/_DTM_2012-04/_DTD_06/07.txt 文件没有数据内容!
+AUTO SetIntval Time [2012-04-06 08:04:14]:
+		完成了机器台数的小时处理;
+	成功导入到[tong_hour]表!
+	Automatic registered users: to complete list!
+	To automatically register to user_auto_reg table completed
+	07时的数据处理完成,时间2012-04-06 08:14:14时!

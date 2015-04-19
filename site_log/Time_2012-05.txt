@@ -1,0 +1,18 @@
+AUTO SetIntval Time [2012-05-16 12:34:18]:
+	AUTO SetIntval Time [2012-05-16 12:37:01]:
+	AUTO SetIntval Time [2012-05-16 12:38:14]:
+		完成了机器台数的小时处理;
+	成功导入到[tong_hour]表!
+	Automatic registered users:8888 to complete list!
+	To automatically register to user_auto_reg table completed
+	11时的数据处理完成,时间2012-05-16 12:38:14时!
+AUTO SetIntval Time [2012-05-16 13:31:50]:
+		完成了机器台数的小时处理;
+	成功导入到[tong_hour]表!
+	Automatic registered users:3012 to complete list!
+	To automatically register to user_auto_reg table completed
+	12时的数据处理完成,时间2012-05-16 13:31:50时!
+AUTO SetIntval Time [2012-05-16 13:40:25]:
+		完成了机器台数的小时处理;
+	成功导入到[tong_hour]表!
+	12时的数据处理完成,时间2012-05-16 13:40:25时!

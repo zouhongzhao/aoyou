@@ -1,0 +1,2 @@
+1:VERSION	2:Remark	3:IpAdd	4:Mac	5:Install	6:Start	7:Date	8:Time	9:ChannelID	10:Remark
+20120516		127.0.0.1	111	1	1	2012-05-16	11	8888	11221

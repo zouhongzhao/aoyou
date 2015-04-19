@@ -1,0 +1,1 @@
+<iframe name="weather_inc" src="http://www.tianqi.com/index.php?c=code&id=13" width="650" height="221" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>

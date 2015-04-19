@@ -1,0 +1,6 @@
+2012-05-17---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE tong_daying TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	Not Data 

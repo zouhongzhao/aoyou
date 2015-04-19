@@ -1,0 +1,185 @@
+2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_daying TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	Not Data 
+2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_daying TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	Not Data 
+2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	Handled 1 MAC record;
+	Total added 1 more Mac record;
+	Handle versioning statements complete;
+2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	Handled 1 MAC record;
+2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	Handled 1 MAC record;
+2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	Handled 1 MAC record;
+2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	Handled 1 MAC record;
+2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	Handled 1 MAC record;
+2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	Handled 1 MAC record;
+	Update 1 of Mac record;
+	Total added 0 more Mac record;
+2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	Handled 1 MAC record;
+	Total added 1 more Mac record;
+	Handle versioning statements complete;
+2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	Handled 1 MAC record;
+	Total added 1 more Mac record;
+	Handle versioning statements complete;
+2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	Not Data 
+2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	Not Data 
+2012-04-06---------Day Interval--------------
+	DELETE Tong_hour week ok
+	DELETE Tong_dayinfo TWO DAY 
+	DELETE Tong_daymac THREEDAY ok
+	DELETE Tong_hourx THREEDAY ok
+	insert tong_daying ok!
+	Handled 1 MAC record;
+	Total added 1 more Mac record;
+	Handle versioning statements complete;

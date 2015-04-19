@@ -1,0 +1,207 @@
+.login_div{
+	text-align:left;
+	width:450px;
+	height:250px
+	padding-top:100px;
+	overflow:hidden;
+	color:#333333;
+	font-size:14px;
+	line-height:150%;	
+
+}
+
+.red_font{
+
+	color:#ff0000;
+}
+.left_div{
+
+	text-align:left;
+}
+.center{
+
+		text-align:center!important;
+}
+.left{
+
+	text-align:left;
+}
+.right{
+
+	text-align:right!important;
+}
+
+.width_pct_80{
+	width:80%;
+}
+
+.height_50{
+
+	height:50px;
+
+}
+li{
+
+	text-align:left;
+	padding-left:10px;
+	line-height:450%;
+	font-size:13px;
+	list-style-type:decimal;
+}
+
+h1{
+	color:#5996D7;
+}
+.margin_25{
+	margin-top:25px;
+	margin-bottom:25px;
+}
+
+.hide{
+	display:none;
+}
+
+a{
+	text-decoration:none;
+}
+
+.admin{
+	padding: 0 20px;
+}
+.mytheme1 {
+	
+	background-image: url(themes/default/images/layout_button_right.gif);
+	background-repeat: no-repeat;
+	padding-left:25px;
+	background-position:1px -1px;
+	width:80%;
+	text-align:left;
+	margin-left:1%;
+	margin-bottom:10px;
+	
+}
+.redirect_css1{
+	width:70%;
+	height:100px;
+	border:1px solid #ff0000;
+	background:#ececec;
+	padding-top:50px;
+	
+}
+
+
+
+textarea{
+	width:200px;
+	height:50px;
+}
+.td_op{
+	text-align:left!important;padding-left:10px!important;
+}
+
+.link_view{	
+
+	background-image: url(../images/view.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	padding-left:20px;
+	padding-bottom:10px;
+	
+}
+
+.link_mod{	
+
+	background-image: url(../images/mod.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	padding-left:20px;
+	padding-bottom:10px;
+	
+}
+
+
+
+.link_del{	
+	background-image: url(../images/del.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	padding-left:20px;
+	padding-bottom:10px;
+}
+
+
+
+.link_add{	
+	background-image: url(../images/add.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	padding-left:20px;
+	padding-bottom:10px;
+	
+}
+body{
+
+	font-size:13px;
+}
+
+.my_errors{
+	width:300px;
+	height:250px;
+}
+
+
+#pagination{
+padding: 2px;
+}
+
+#pagination ul{
+margin: 0 auto;
+padding: 0;
+text-align: right; /*Set to "right" to right align pagination interface*/
+font-size: 12px;
+}
+
+#pagination li{
+list-style-type: none;
+display: inline;
+padding-bottom: 1px;
+margin-right:2px;
+}
+
+#pagination a, .pagination a:visited{
+padding: 0 5px;
+border: 1px solid #9aafe5;
+text-decoration: none; 
+color: #2e6ab1;
+}
+
+#pagination a:hover, .pagination a:active{
+border: 1px solid #2b66a5;
+color: #000;
+background-color: lightyellow;
+}
+
+#pagination li.currentpage{
+font-weight: bold;
+padding: 0 5px;
+border: 1px solid navy;
+background-color: #2e6ab1;
+color: #FFF;
+}
+
+#pagination li.disablepage{
+padding: 0 5px;
+border: 1px solid #929292;
+color: #929292;
+}
+
+#pagination li.nextpage{
+font-weight: bold;
+}
+
+* html #pagination li.currentpage, * html #pagination li.disablepage{ /*IE 6 and below. Adjust non linked LIs slightly to account for bugs*/
+margin-right: 5px;
+padding-right: 0;
+}
+
+

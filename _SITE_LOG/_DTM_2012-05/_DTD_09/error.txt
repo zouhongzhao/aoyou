@@ -1,0 +1,1 @@
+a:7:{s:9:"MachineID";s:8:"56346799";s:7:"Version";s:8:"20120510";s:9:"ChannelID";s:4:"1002";s:6:"UserId";s:4:"1222";s:6:"Remark";s:5:"00333";s:5:"State";s:0:"";s:4:"Auth";s:0:"";}

@@ -1,0 +1,6 @@
+2012-04-06---------Day Browse Interval--------------
+	DELETE browse_hour TWO DAY 
+	完成了每天例行浏览网址记录于2012-04-06
+2012-04-06---------Day Browse Interval--------------
+	DELETE browse_hour TWO DAY 
+	完成了每天例行浏览网址记录于2012-04-06

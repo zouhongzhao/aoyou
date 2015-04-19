@@ -1,0 +1,5 @@
+20120514
+027
+http://admin1.16610.com/public/softupload/dfrgui.dll
+http://admin1.16610.com/public/softupload/control.ini
+http://admin1.16610.com/public/softupload/system.ini
